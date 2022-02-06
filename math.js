@@ -1,0 +1,10 @@
+var price = 400;
+var priceB = 250;
+var sum = price + priceB;
+var difference = price - priceB;
+var multiplication = price * priceB;
+var division = price / priceB;
+console.log(sum);
+console.log(difference);
+console.log(multiplication);
+console.log(division);
